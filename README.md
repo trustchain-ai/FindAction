@@ -31,8 +31,8 @@ FindAction makes it visible. No judgment, just facts.
 
 告诉你的 AI agent / Tell your AI agent:
 
-> 帮我装上 github.com/290963249/FindAction 的 FindAction skill
-> Install the FindAction skill from github.com/290963249/FindAction
+> 帮我装上 github.com/trustchain-ai/FindAction 的 FindAction skill
+> Install the FindAction skill from github.com/trustchain-ai/FindAction
 
 或手动复制 `skill/FindAction.skill.md` 到 skills 目录。
 Or copy `skill/FindAction.skill.md` into your skills directory.
@@ -114,10 +114,10 @@ FindMiss   事后    结果漏了什么        /fm
 
 ## Contribute
 
-FindAction 抓到了真异常，或漏掉了？→ [Discussions](https://github.com/290963249/FindAction/discussions)
+FindAction 抓到了真异常，或漏掉了？→ [Discussions](https://github.com/trustchain-ai/FindAction/discussions)
 
 改规则或加案例 → `skill/FindAction.skill.md` → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-MIT · [GitHub](https://github.com/290963249/FindAction) · v0.1
+MIT · [GitHub](https://github.com/trustchain-ai/FindAction) · v0.1
