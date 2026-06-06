@@ -5,7 +5,7 @@ license: MIT
 metadata:
   version: "0.1.0"
   package: findaction
-  source: https://github.com/290963249/FindAction
+  source: https://github.com/trustchain-ai/FindAction
 ---
 
 # FindAction · v0.1 · 黑盒变白盒 · 审动作 · 对证据 · 查时序
