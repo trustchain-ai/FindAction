@@ -12,7 +12,7 @@
   ],
   "entrypoint": "skill/FindAction.skill.md",
   "license": "MIT",
-  "homepage": "https://github.com/290963249/FindAction",
+  "homepage": "https://github.com/trustchain-ai/FindAction",
   "redlines": [
     "只审执行过程，不审内容对错",
     "缺证据默认未执行，不脑补线下完成",
