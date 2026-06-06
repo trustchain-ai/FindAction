@@ -6,7 +6,7 @@ FindAction 抓到了真异常，或漏掉了？欢迎贡献。
 
 ### 报告误判或漏判
 
-在 [Discussions](https://github.com/290963249/FindAction/discussions) 中提供：
+在 [Discussions](https://github.com/trustchain-ai/FindAction/discussions) 中提供：
 
 1. Agent 的执行场景（做了什么任务）
 2. FindAction 的输出
