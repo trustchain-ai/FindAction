@@ -1,0 +1,23 @@
+{
+  "slug": "findaction",
+  "version": "0.1.0",
+  "displayName": "FindAction",
+  "description": "Agent 执行完毕后，审查它到底做了哪些动作——黑盒变白盒。不审内容真假，只审执行过程：做了什么、跳过了什么、哪步异常。",
+  "triggerPhrases": [
+    "/findaction",
+    "/fa",
+    "审执行",
+    "审动作",
+    "action 一下"
+  ],
+  "entrypoint": "skill/FindAction.skill.md",
+  "license": "MIT",
+  "homepage": "https://github.com/290963249/FindAction",
+  "redlines": [
+    "只审执行过程，不审内容对错",
+    "缺证据默认未执行，不脑补线下完成",
+    "self-report 不算 proof——声称做了不等于真做了",
+    "不替用户判断该不该做，只展示做了什么"
+  ],
+  "corePrinciple": "黑盒变白盒 · 审动作 · 对证据 · 查时序 (v0.1)"
+}
